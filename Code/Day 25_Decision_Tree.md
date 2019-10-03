@@ -1,6 +1,6 @@
 # 决策树分类
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%2023%20-%20Chinese.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%2023%20-%20Chinese.jpg?raw=true">
 </p>
 
 ### 导入需要用到的python库
